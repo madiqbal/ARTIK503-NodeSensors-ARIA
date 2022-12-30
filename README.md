@@ -23,5 +23,10 @@ Open IDE (should to be open by LINUX)
 7. make sure that all of the build from your OS and IDE are doing correctly, sometimes it told you to do the gcc or cc1 to be installed to for compiling and build the project that needs by the ARTIK IDE
 8. after the Program build by by the terminal, flash the program using the Flash Program from the IDE, using flash system image.this should make the prorgram you use are flashed to the ARTIK 503
 9. check the terminal to make sure your setting to the ARTIK 503 are running correctly using baudrate 115200
-
 ![MicrosoftTeams-image (3)](https://user-images.githubusercontent.com/32058105/210038788-b073d92f-c240-4b2a-9ab2-1a0bf5fc0f13.png)
+10. after it connected, make sure it shows the log that it's been working with the ARIA crypto also sending it to the server which shows like this
+![screenshot success aria di node](https://user-images.githubusercontent.com/32058105/210040237-4f6a2744-1ec0-4350-909a-51dabb9b1dca.png)
+
+![Screenshot 2022-12-30 151513](https://user-images.githubusercontent.com/32058105/210040409-72af6b0c-66db-4e73-b526-3de48ab8fdd1.png)
+
+![Screenshot 2022-12-30 151557](https://user-images.githubusercontent.com/32058105/210040415-757a5eb4-20e7-4c43-91be-f39cec876102.png)
